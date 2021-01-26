@@ -1,5 +1,5 @@
 ---
-title: ""
+title: " "
 
 site: distill::distill_website
 css: [styles.css]
@@ -7,7 +7,7 @@ listing: posts
 
 ---
 <div class='index-title' style="">
-# Projet numéro 1
+# Toutes mes actualités regroupées ici !
 </div>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
