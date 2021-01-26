@@ -5,21 +5,21 @@
       "title": "À Propos",
       "author": [],
       "contents": "\r\nActuellement\r\nJe suis actuellement et serai très prochainement diplômée du Master Mécen (Université de Tours), master qui forme des économistes d’entreprise spécialisé dans le domaine de l’analyse de données. Je suis passionnée par la data science et l’économie de la santé, je cherche toujours à me surpasser et suis en constant apprentissage. Vous trouverez mon CV en cliquant ici.\r\nBlandine Desroches\r\n\r\n.image-ronde{\r\n  width : 45px; height : 45px;\r\n  -moz-border-radius : 45px;\r\n  -webkit-border-radius : 45px;\r\n  border-radius : 45px;\r\n}\r\n\r\n\r\n    Email me       GitHub      LinkedIn  \r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T18:03:15+01:00"
+      "last_modified": "2021-01-26T18:15:09+01:00"
     },
     {
       "path": "index.html",
       "title": "",
       "author": [],
       "contents": "\r\nProjet numéro 1\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T18:03:16+01:00"
+      "last_modified": "2021-01-26T18:15:10+01:00"
     },
     {
       "path": "Ressources.html",
       "title": "Ressources",
       "author": [],
       "contents": "\r\n\r\nContents\r\nR\r\nPython\r\nPeople, Blogs etc.\r\n\r\nVoici une liste non exhaustive des ressources utilisées pour chacun des projets qui seront présentés sur ce site.\r\nR\r\nTidyverse Introduction à R et au tidyverse\r\nDplyr est une extension facilitant le traitement et la manipulation de données contenues dans une ou plusieurs tables\r\nString Ce package fournit un ensemble cohérent de fonctions conçues pour faciliter au maximum le travail avec les chaînes de caractères\r\nPython\r\nScikit-learn Des outils simples et efficaces pour l’exploration et l’analyse des données\r\nPandas Traiter les données à la manière de R\r\nPeople, Blogs etc.\r\nRStudio\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T18:03:17+01:00"
+      "last_modified": "2021-01-26T18:15:11+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
