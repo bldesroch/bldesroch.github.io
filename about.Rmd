@@ -1,0 +1,50 @@
+---
+title: "À Propos"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+### Actuellement
+
+Je suis actuellement et serai très prochainement diplômée du Master [Mécen](http://mecen-univ-tours.fr/) (Université de Tours), master qui forme des économistes d'entreprise spécialisé dans le domaine de l'analyse de données.
+Je suis passionnée par la data science et l'économie de la santé, je cherche toujours à me surpasser et suis en constant apprentissage. Vous trouverez mon CV en cliquant [ici](../CV_Blandine_Desroches.pdf).
+
+<br>
+<span itemprop="name" style="font-variant: small-caps; color: #A4C2D1; font-size: 150%">Blandine Desroches</span>
+<style>
+.image-ronde{
+  width : 45px; height : 45px;
+  -moz-border-radius : 45px;
+  -webkit-border-radius : 45px;
+  border-radius : 45px;
+}
+</style>
+
+<img  src="Photo_CV_BD.jpg" class='image-ronde' style="display:block; margin: 0 auto;">
+
+
+<div style='text-align: center;  color: #A4C2D1'>
+<a style='color: #A4C2D1' href="mailto:blandine.desroches@hotmail.fr" title="Email me" class = 'social-icon'><span class="fa-stack fa-lg" aria-hidden="true">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+</span>
+<span class="sr-only">Email me</span>
+</a>
+<a style='color: #A4C2D1'href="https://github.com/bldesroch" title="GitHub" class = 'social-icon'>
+  <span class="fa-stack fa-lg" aria-hidden="true">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+  </span>
+  <span class="sr-only">GitHub</span>
+</a>
+<a style='color: #A4C2D1' href="https://www.linkedin.com/in/blandine-desroches/" title="LinkedIn" class = 'social-icon'><span class="fa-stack fa-lg" aria-hidden="true">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+</span>
+<span class="sr-only">LinkedIn</span>
+</a>
+</a>
+</div>

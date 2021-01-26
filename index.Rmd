@@ -1,0 +1,19 @@
+---
+title: ""
+
+site: distill::distill_website
+css: [styles.css]
+listing: posts
+
+---
+<div class='index-title' style="">
+# Projet numéro 1
+</div>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

@@ -1,0 +1,16 @@
+name: "Blandine Desroches"
+title: "Blandine Desroches"
+theme: my_siteweb.css
+description: |
+  Vous trouverez ici tous mes futurs projets.
+output_dir: "_site"
+navbar:
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "A propos"
+      href: about.html
+    - text: "Ressources"
+      href: Ressources.html
+output: distill::distill_article

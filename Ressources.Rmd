@@ -1,0 +1,29 @@
+---
+title: "Ressources"
+output:
+  distill::distill_article:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Voici une liste non exhaustive des ressources utilisées pour chacun des projets qui seront présentés sur ce site.
+
+## R
+
+- [Tidyverse](https://juba.github.io/tidyverse/01-presentation.html) Introduction à R et au *tidyverse*
+- [Dplyr](http://larmarange.github.io/analyse-R/manipuler-les-donnees-avec-dplyr.html) est une extension facilitant le traitement et la manipulation de données contenues dans une ou plusieurs tables
+- [String](https://stringr.tidyverse.org/) Ce package fournit un ensemble cohérent de fonctions conçues pour faciliter au maximum le travail avec les chaînes de caractères
+
+## Python
+
+- [Scikit-learn](http://scikit-learn.org/stable/)  Des outils simples et efficaces pour l'exploration et l'analyse des données
+- [Pandas](http://pandas.pydata.org/) Traiter les données à la manière de R
+
+## People, Blogs etc.
+
+- [RStudio](https://blog.rstudio.org/)
+
