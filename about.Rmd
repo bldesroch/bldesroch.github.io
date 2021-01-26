@@ -16,10 +16,11 @@ Je suis passionnée par la data science et l'économie de la santé, je cherche 
 <span itemprop="name" style="font-variant: small-caps; color: #A4C2D1; font-size: 150%">Blandine Desroches</span>
 <style>
 .image-ronde{
-  width : 45px; height : 45px;
-  -moz-border-radius : 45px;
-  -webkit-border-radius : 45px;
-  border-radius : 45px;
+  overflow:hidden;
+  width : 90px; height : 90px;
+  -moz-border-radius : 50px;
+  -webkit-border-radius : 50px;
+  border-radius : 50px;
 }
 </style>
 
