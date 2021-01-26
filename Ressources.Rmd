@@ -22,6 +22,8 @@ Voici une liste non exhaustive des ressources utilisées pour chacun des projets
 
 - [Scikit-learn](http://scikit-learn.org/stable/)  Des outils simples et efficaces pour l'exploration et l'analyse des données
 - [Pandas](http://pandas.pydata.org/) Traiter les données à la manière de R
+- [Matplotlib](https://matplotlib.org/) C'est une bibliothèque complète pour la création de visualisations statiques, animées et interactives en Python.
+- [Seaborn](https://seaborn.pydata.org/) C'est une bibliothèque de visualisation de données en Python basée sur [matplotlib](https://matplotlib.org/). Elle fournit une interface de haut niveau pour dessiner des graphiques statistiques attrayants et informatifs.
 
 ## People, Blogs etc.
 

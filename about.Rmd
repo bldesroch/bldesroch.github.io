@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Actuellement
 
-Je suis actuellement et serai très prochainement diplômée du Master [Mécen](http://mecen-univ-tours.fr/) (Université de Tours), master qui forme des économistes d'entreprise spécialisé dans le domaine de l'analyse de données.
+Je suis actuellement et serai très prochainement diplômée du Master [Mécen](http://mecen-univ-tours.fr/) (Université de Tours), master qui forme des économistes d'entreprise spécialisés dans le domaine de la data.
 Je suis passionnée par la data science et l'économie de la santé, je cherche toujours à me surpasser et suis en constant apprentissage. Vous trouverez mon CV en cliquant [ici](../CV_Blandine_Desroches.pdf).
 
 <br>
